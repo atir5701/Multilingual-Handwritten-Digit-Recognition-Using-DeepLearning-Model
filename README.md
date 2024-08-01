@@ -19,7 +19,9 @@ Handwritten digit recognition is a challenging problem in machine learning and c
   Language Classifier: Identifies the language associated with a digit.
   Digit Classifier: Recognizes digits for each specific language.
 
-  The overall architecture is shown in the figure below
+  The overall architecture is shown in the figure below 
+  ![Alt text](Multiplexer.png)
+
 
 ## Installation 
   - Clone Repo
